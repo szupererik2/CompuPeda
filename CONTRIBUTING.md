@@ -34,13 +34,13 @@ Ha nem vagy biztos benne, hogy valami illik-e a projektbe, nyiss először egy *
 A projekt a **00–99** sorszámozási rendszert követi.  
 Minden fő kategória külön mappát kapott, pl.:
 
-00_General/
-10_Programming/
-20_Math/
-30_CS_Theory/
-40_Useful_Sites/
-50_Free_Ebooks/
-99_Archive/
+- `00_Altalanos/` – általános tanulási tippek, jegyzetek  
+- `01_Programozas/` – programozási nyelvek, feladatok, kurzusok  
+- `02_Matematika/` – matematika (algebra, kalkulus, diszkrét)  
+- `03_Szamitastechnika_Elmelet/` – számítástechnikai elmélet, OS, DB  
+- `04_Hasznos_Weboldalak/` – weboldalak, eszközök, tanulást segítő platformok  
+- `05_Ingyenes_Ekonyvek/` – ingyenes e-könyvek kategóriák szerint  
+- `99_Archivum/` – régi vagy frissített tartalmak, archivált anyagok
 
 Egy-egy kategórián belül `.md` fájlokat használunk listák és leírások tárolására.  
 A mappákban **ne hozz létre véletlenszerű új szinteket** — tartsd be a logikus hierarchiát (max. 5 mélységig).

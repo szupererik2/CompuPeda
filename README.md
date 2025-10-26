@@ -6,13 +6,13 @@ Egy nyílt, közösségi gyűjtemény pedagógiai és informatikai tartalmakról
 
 A projekt a **00–99** sorszámozási rendszert követi, így a kategóriák logikusan rendezettek:
 
-- `00_General/` – általános tanulási tippek, jegyzetek  
-- `10_Programming/` – programozási nyelvek, feladatok, kurzusok  
-- `20_Math/` – matematika (algebra, kalkulus, diszkrét)  
-- `30_CS_Theory/` – számítástechnikai elmélet, OS, DB  
-- `40_Useful_Sites/` – weboldalak, eszközök, tanulást segítő platformok  
-- `50_Free_Ebooks/` – ingyenes e-könyvek kategóriák szerint  
-- `99_Archive/` – régi vagy frissített tartalmak, archivált anyagok
+- `00_Altalanos/` – általános tanulási tippek, jegyzetek  
+- `01_Programozas/` – programozási nyelvek, feladatok, kurzusok  
+- `02_Matematika/` – matematika (algebra, kalkulus, diszkrét)  
+- `03_Szamitastechnika_Elmelet/` – számítástechnikai elmélet, OS, DB  
+- `04_Hasznos_Weboldalak/` – weboldalak, eszközök, tanulást segítő platformok  
+- `05_Ingyenes_Ekonyvek/` – ingyenes e-könyvek kategóriák szerint  
+- `99_Archivum/` – régi vagy frissített tartalmak, archivált anyagok
 
 ## 🚀 Hogyan használd
 
